@@ -60,6 +60,9 @@ namespace WebApplication1
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // Adding the seed initializer
+            SeedData.Initialize(app.ApplicationServices);
         }
     }
 }
