@@ -16,3 +16,7 @@ C:\Users\marco\Mis documentos\Workspace\MvcMovie\WebApplication1\obj\Debug\netco
 C:\Users\marco\Mis documentos\Workspace\MvcMovie\WebApplication1\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
 C:\Users\marco\Mis documentos\Workspace\MvcMovie\WebApplication1\obj\Debug\netcoreapp1.1\MvcMovie.dll
 C:\Users\marco\Mis documentos\Workspace\MvcMovie\WebApplication1\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\marco\Mis documentos\workspace\MVCMovie\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marco\Mis documentos\workspace\MVCMovie\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marco\Documents\workspace\MVCMovie\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marco\Documents\workspace\MVCMovie\WebApplication1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
